@@ -1,3 +1,0 @@
-VSCode를 이용해서 Nodejs 실습진행
-
-Nodejs 실습 파일은 VSCode로 Github에 Push
